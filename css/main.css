@@ -3,8 +3,9 @@
 body{
 	font-size: 62.5%;
 	font-family: helvetica, arial, sans-serif;
-	color:#545257; /*changes color of the whole text*/
+	color:#ffffff; /*changes color of the whole text*/
 	margin-top: 0;
+	background-color: #545257;
 }
 #wrapper{
 	width:960px;
